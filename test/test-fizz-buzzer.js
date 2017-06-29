@@ -1,6 +1,6 @@
 const should = require('chai').should();
 
-const adder = require('../fizzBuzzer');
+const fizzBuzzer = require('../fizzBuzzer');
 
 
 // unit tests for our `fizzBuzzer` function
